@@ -52,7 +52,7 @@ And they're serious! I mean, just check out at the
 (https://www.bbc.com/future/article/20151012-will-emoji-become-a-new-language) 
 explores the question.
 
-## Emojian
+## Emojin
 
 In [this video](https://www.youtube.com/watch?v=2vKVv-ymBGI) 
 Matt Mignogna talks about the "what makes a language" 
