@@ -2,23 +2,29 @@
 
 Developing a full emoji language.
 
-Disclaimer: My personal belief is that would better serve to enhance existing 
-writing systems by re-introducing the information that is lost when removing 
+Disclaimer: My personal belief regarding the 
+"will emojis become a new language" question is that their current use,
+and probably most valuable future use, 
+would be to enhance existing 
+writing systems. 
+Indeed, compared to face-to-face spoken language, 
+you lose quite a bit in written language, such as 
 body language, facial expression and tone of voice. 
-In fact, this is exactly how emojis are actually used in most cases. 
+Emojis can reintroduce this lost information. 
 
-Still, out of academic curiosity, let's see what we can do. 
+Still, out of academic curiosity, let's see what a written language that 
+uses emojis could look like. 
 
-This is not about just replacing some text by emoji equivalent: 
+Our research is **not** about just replacing some text by emoji equivalent: 
 We want the written system to only use unicode emojis. 
 
-This is not about converting text to an emoji-only written system. 
+Our research is **not** about converting text to an emoji-only written system. 
 That's easy. You can do it with two emoji characters -- that's called binary. 
 You can do it with a mapping between letters and emojis -- 
 that's lame.
 
-Instead what we want to do here is explore how one can map english 
-(for example) to emojis, and back, but through their semantic content, 
+Instead what we want to do here is explore how one can map written english 
+(for example) to emojis, but through their semantic content, 
 with an eye on patterns that might lead to a grammar for the "language"
 -- whether this grammar emerges naturally, or is helped out a bit 
 through the modeling setup.
