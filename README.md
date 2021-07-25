@@ -66,4 +66,14 @@ and is (as he later points out) just a mapping of English
 Still, the first 6mn are is a nice introduction to the effort and potential.
 
 
+## English to Emoji
+
+### Code
+- https://github.com/carpedm20/emoji
+  
+### online apps
+- https://emojitranslate.com/
+- http://superemojitranslator.com/emoji-translate
+
+
 
