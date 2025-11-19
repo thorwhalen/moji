@@ -2,13 +2,13 @@
 
 Developing a full emoji language.
 
+_Note: This was developed before the big bang of LLMs. Check out how LLMs can translate any text into emojis 
+(if only [Bing Xu](https://www.amazon.com/Book-Ground-point-MIT-Press/dp/0262536226) had has this!!))_
+
 Disclaimer: My personal belief regarding the 
 "will emojis become a new language" question is that their current use,
-and probably most valuable future use, 
-would be to enhance existing 
-writing systems. 
-Indeed, compared to face-to-face spoken language, 
-you lose quite a bit in written language, such as 
+and probably most valuable future use, would be to enhance existing writing systems. 
+Indeed, compared to face-to-face spoken language,  you lose quite a bit in written language, such as 
 body language, facial expression and tone of voice. 
 Emojis can reintroduce this lost information. 
 
