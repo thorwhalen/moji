@@ -2,8 +2,9 @@
 
 Developing a full emoji language.
 
-_Note: This was developed before the big bang of LLMs. Check out how LLMs can translate any text into emojis 
-(if only [Bing Xu](https://www.amazon.com/Book-Ground-point-MIT-Press/dp/0262536226) had has this!!))_
+_Note: This was developed before the big bang of LLMs. 
+Now we can just do [this](https://chatgpt.com/share/691e2495-0738-8013-8f8a-151b6c8228b0).
+(if only Bing Xu had this when he made his [book without words](https://www.amazon.com/Book-Ground-point-MIT-Press/dp/0262536226)!!))_
 
 Disclaimer: My personal belief regarding the 
 "will emojis become a new language" question is that their current use,
