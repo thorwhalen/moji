@@ -54,8 +54,7 @@ And they're serious! I mean, just check out at the
 
 ## Will emoji become a new language?
 
-[This article from the BBC]
-(https://www.bbc.com/future/article/20151012-will-emoji-become-a-new-language) 
+[This article from the BBC](https://www.bbc.com/future/article/20151012-will-emoji-become-a-new-language) 
 explores the question.
 
 ## Emojin
