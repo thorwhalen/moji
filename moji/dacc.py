@@ -16,9 +16,9 @@ def get_word_vec(*args):
     return WordVec(*args)
 
 
-emo_of_description_file = data_dir / 'emoji_joined.tsv'
+emo_of_description_file = data_dir / "emoji_joined.tsv"
 
-_tokenizer_re = re.compile(r'\w+')
+_tokenizer_re = re.compile(r"\w+")
 
 
 def tokenize(string):
@@ -39,7 +39,7 @@ tokenizer = tokenize  # backward-compatible alias
 def mk_emo_of_description():
     return dict(
         np.genfromtxt(
-            str(emo_of_description_file), delimiter='\t', dtype=str, skip_header=1
+            str(emo_of_description_file), delimiter="\t", dtype=str, skip_header=1
         )
     )
 

@@ -8,8 +8,8 @@ except ImportError:
     except ModuleNotFoundError:
         raise ModuleNotFoundError(
             "No module named 'importlib_resources'. "
-            'pip install importlib_resources or conda install importlib_resources'
+            "pip install importlib_resources or conda install importlib_resources"
         )
 
-root_path = files('moji')
-data_dir = root_path / 'data'
+root_path = files("moji")
+data_dir = root_path / "data"

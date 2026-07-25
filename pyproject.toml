@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "moji"
-version = "0.0.8"
+version = "0.0.9"
 description = "Developing a full emoji language"
 readme = "README.md"
 requires-python = ">=3.10"
