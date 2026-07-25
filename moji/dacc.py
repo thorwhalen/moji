@@ -18,7 +18,22 @@ def get_word_vec(*args):
 
 emo_of_description_file = data_dir / 'emoji_joined.tsv'
 
-tokenizer = re.compile(r'\w+').findall
+_tokenizer_re = re.compile(r'\w+')
+
+
+def tokenize(string):
+    r"""Extract the word tokens (maximal alphanumeric runs) from a string.
+
+    Punctuation, whitespace, and symbols (including emoji) act as separators
+    and are dropped, leaving only the ``\w+`` runs:
+
+    >>> tokenize('Grinning face with smiling eyes 😄')
+    ['Grinning', 'face', 'with', 'smiling', 'eyes']
+    """
+    return _tokenizer_re.findall(string)
+
+
+tokenizer = tokenize  # backward-compatible alias
 
 
 def mk_emo_of_description():
