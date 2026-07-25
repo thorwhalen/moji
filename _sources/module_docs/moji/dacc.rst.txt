@@ -1,0 +1,4 @@
+moji.dacc
+=========
+.. automodule:: moji.dacc
+   :members:

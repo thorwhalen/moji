@@ -1,0 +1,4 @@
+moji
+====
+.. automodule:: moji
+   :members:
